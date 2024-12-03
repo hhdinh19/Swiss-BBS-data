@@ -2,7 +2,7 @@
 
 This repository contains count data for 46 bird species from the Swiss Breeding Bird Survey (Swiss BBS). Each species is represented by a separate CSV file. These data were used in the manuscript:
 
-#### "An Extension of N-mixture Occupancy Models for Count Data"
+#### "A Flexible Framework for N-mixture Occupancy Models of Count Data: Applications to Breeding Bird Surveys"
 
 ### Authors
 + Huu-Dinh Huynh
